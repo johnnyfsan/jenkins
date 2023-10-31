@@ -19,7 +19,7 @@
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="https://api.whatsapp.com/send?phone=5541998214576&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20servi%C3%A7os%20e%20solu%C3%A7%C3%B5es%20ofertados%20pela%20Comps!" target="_blank" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                <span>WhatsApp Novo</span>
+                <span>WhatsApp</span>
                 <i class="bi bi-whatsapp"></i>
               </a>
             </div>
